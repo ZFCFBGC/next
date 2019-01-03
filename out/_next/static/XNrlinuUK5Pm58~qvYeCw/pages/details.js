@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{214:function(e,n,t){__NEXT_REGISTER_PAGE("/details",function(){return e.exports=t(215),{page:e.exports.default}})},215:function(e,n,t){"use strict";t.r(n);var a=t(0),u=t.n(a),l=t(41);n.default=function(){return u.a.createElement("div",null,u.a.createElement(l.a,null),u.a.createElement("p",null,"兄弟我们一路前行"))}}},[[214,1,0]]]);
